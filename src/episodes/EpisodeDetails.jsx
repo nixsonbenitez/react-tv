@@ -20,3 +20,8 @@ export default function EpisodeDetails({ episode }) {
     </section>
   );
 }
+
+
+//once a show is choosen this fires up and displays !episode to encourage users to make a 
+// choice, once an episode is clicked, it will recieved that episodes object. The information comes
+//from show details
